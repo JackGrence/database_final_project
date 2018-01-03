@@ -9,5 +9,6 @@
 <a href="/database_final/course">課程管理</a>
 <a href="/database_final/student">學生管理</a>
 <a href="/database_final/select">選課作業</a>
+<a href="/database_final/customized">客製化查詢</a>
 </br>
 </div>
